@@ -1,2 +1,2 @@
 # odin-recipes
-creating small project odin recipe 
+small project odin recipe 
