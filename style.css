@@ -1,0 +1,34 @@
+.recipe ul{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.recipe{
+    /* background-color: aqua; */
+      font-family: "Lucida Console", "Courier New", monospace;
+}
+.recipe h1{
+    text-align: center;
+    font-weight: bold;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+   border-bottom:2px solid orange ;
+}
+li a img{
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 50px;
+}
